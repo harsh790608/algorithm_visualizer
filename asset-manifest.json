@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/algorithm_visualizer%20/static/css/main.559cc6df.chunk.css",
+    "main.js": "/algorithm_visualizer%20/static/js/main.585f9cf0.chunk.js",
+    "main.js.map": "/algorithm_visualizer%20/static/js/main.585f9cf0.chunk.js.map",
+    "runtime-main.js": "/algorithm_visualizer%20/static/js/runtime-main.f724f4ca.js",
+    "runtime-main.js.map": "/algorithm_visualizer%20/static/js/runtime-main.f724f4ca.js.map",
+    "static/css/2.55f81ba0.chunk.css": "/algorithm_visualizer%20/static/css/2.55f81ba0.chunk.css",
+    "static/js/2.e66672f9.chunk.js": "/algorithm_visualizer%20/static/js/2.e66672f9.chunk.js",
+    "static/js/2.e66672f9.chunk.js.map": "/algorithm_visualizer%20/static/js/2.e66672f9.chunk.js.map",
+    "static/js/3.7e6685ad.chunk.js": "/algorithm_visualizer%20/static/js/3.7e6685ad.chunk.js",
+    "static/js/3.7e6685ad.chunk.js.map": "/algorithm_visualizer%20/static/js/3.7e6685ad.chunk.js.map",
+    "index.html": "/algorithm_visualizer%20/index.html",
+    "static/css/2.55f81ba0.chunk.css.map": "/algorithm_visualizer%20/static/css/2.55f81ba0.chunk.css.map",
+    "static/css/main.559cc6df.chunk.css.map": "/algorithm_visualizer%20/static/css/main.559cc6df.chunk.css.map",
+    "static/js/2.e66672f9.chunk.js.LICENSE.txt": "/algorithm_visualizer%20/static/js/2.e66672f9.chunk.js.LICENSE.txt",
+    "static/media/15puzzle.5f6e8f37.PNG": "/algorithm_visualizer%20/static/media/15puzzle.5f6e8f37.PNG",
+    "static/media/Recursion.74bc404c.jpg": "/algorithm_visualizer%20/static/media/Recursion.74bc404c.jpg",
+    "static/media/binaryTree.6d8ce938.png": "/algorithm_visualizer%20/static/media/binaryTree.6d8ce938.png",
+    "static/media/convexHull.2720e7cd.png": "/algorithm_visualizer%20/static/media/convexHull.2720e7cd.png",
+    "static/media/graph.6e6849d5.png": "/algorithm_visualizer%20/static/media/graph.6e6849d5.png",
+    "static/media/primes.72a2f33f.jpg": "/algorithm_visualizer%20/static/media/primes.72a2f33f.jpg",
+    "static/media/queen.a967028b.png": "/algorithm_visualizer%20/static/media/queen.a967028b.png",
+    "static/media/queen.b2332ba3.PNG": "/algorithm_visualizer%20/static/media/queen.b2332ba3.PNG",
+    "static/media/index.css": "/algorithm_visualizer%20/static/media/roboto-vietnamese-400-normal.52cebac0.woff2",
+    "static/media/sort.117e08fc.png": "/algorithm_visualizer%20/static/media/sort.117e08fc.png",
+    "static/media/turing.ab68ef09.jpg": "/algorithm_visualizer%20/static/media/turing.ab68ef09.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f724f4ca.js",
+    "static/css/2.55f81ba0.chunk.css",
+    "static/js/2.e66672f9.chunk.js",
+    "static/css/main.559cc6df.chunk.css",
+    "static/js/main.585f9cf0.chunk.js"
+  ]
+}
